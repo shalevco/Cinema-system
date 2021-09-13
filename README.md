@@ -13,8 +13,8 @@ To run the app:
 }
 
 
-4. To start the servers, go to: backend folder --> cinemaWS - node index.js, SubscriptionsWS - node index.js.   
-5. To start the website, go to: FrontEnd folder --> myapp - npm start.
+4. To start the servers, go to: backend folder --> cinemaWS (open in integrated Terminal) - node index.js, SubscriptionsWS - node index.js.   
+5. To start the website, go to: FrontEnd folder --> myapp (open in integrated Terminal) - npm start.
 6. To login enter username: "shalevco", and paswword: "shalevco123" 
 
 *Only the admin(shalevco) can manage other users and create new ones. After a new user has been created, the user needs to go to the create account page from the login page, enter the username, and choose any password he would like.
