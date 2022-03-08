@@ -2,7 +2,7 @@
 A website for cinema employees to manage their movies, customers and employees.
 
 To run the app:
-1. Install dependencies - npm init in CinemaWS, SubscriptionsWS and the frontend.
+1. Install dependencies - npm install in CinemaWS, SubscriptionsWS and the frontend.
 2. In mongoDB create a "subscriptionsDB" Database and the collections "members", "movies", "subscriptions".
 3. In mongoDB create a "usersDB" Database and the collection "users". In the collection copy and paste this JSON to a document: 
 
